@@ -1,0 +1,17 @@
+{
+ "version": "0.11.0",
+ "source": "MiniGames games/wheel 0.11.0 (skinForTier, served paths)",
+ "tiers": {
+  "Member": "member",
+  "Amethyst": "amethyst",
+  "Topaz": "topaz",
+  "Aquamarine": "aquamarine",
+  "Opal": "opal",
+  "Emerald": "emerald",
+  "Ruby": "ruby",
+  "Sapphire": "sapphire",
+  "Diamond": "diamond",
+  "Vip": "vip"
+ },
+ "fallback": "Member"
+}

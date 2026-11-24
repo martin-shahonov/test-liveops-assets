@@ -1,0 +1,275 @@
+{
+ "frames": {
+  "scratchCoin_000.png": {
+   "frame": {
+    "x": 528,
+    "y": 211,
+    "w": 115,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 79,
+    "y": 40,
+    "w": 115,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 275,
+    "h": 275
+   }
+  },
+  "scratchCoin_001.png": {
+   "frame": {
+    "x": 773,
+    "y": 211,
+    "w": 67,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 103,
+    "y": 40,
+    "w": 67,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 275,
+    "h": 275
+   }
+  },
+  "scratchCoin_002.png": {
+   "frame": {
+    "x": 923,
+    "y": 211,
+    "w": 42,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 116,
+    "y": 40,
+    "w": 42,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 275,
+    "h": 275
+   }
+  },
+  "scratchCoin_003.png": {
+   "frame": {
+    "x": 848,
+    "y": 211,
+    "w": 67,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 105,
+    "y": 40,
+    "w": 67,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 275,
+    "h": 275
+   }
+  },
+  "scratchCoin_004.png": {
+   "frame": {
+    "x": 651,
+    "y": 211,
+    "w": 114,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 82,
+    "y": 40,
+    "w": 114,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 275,
+    "h": 275
+   }
+  },
+  "scratchCoin_005.png": {
+   "frame": {
+    "x": 386,
+    "y": 211,
+    "w": 134,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 72,
+    "y": 40,
+    "w": 134,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 275,
+    "h": 275
+   }
+  },
+  "scratchCoin_006.png": {
+   "frame": {
+    "x": 813,
+    "y": 8,
+    "w": 168,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 55,
+    "y": 40,
+    "w": 168,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 275,
+    "h": 275
+   }
+  },
+  "scratchCoin_007.png": {
+   "frame": {
+    "x": 8,
+    "y": 211,
+    "w": 181,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 48,
+    "y": 40,
+    "w": 181,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 275,
+    "h": 275
+   }
+  },
+  "scratchCoin_008.png": {
+   "frame": {
+    "x": 197,
+    "y": 211,
+    "w": 181,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 48,
+    "y": 40,
+    "w": 181,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 275,
+    "h": 275
+   }
+  },
+  "scratchCoin_009.png": {
+   "frame": {
+    "x": 616,
+    "y": 8,
+    "w": 189,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 44,
+    "y": 40,
+    "w": 189,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 275,
+    "h": 275
+   }
+  },
+  "scratchCoin_010.png": {
+   "frame": {
+    "x": 414,
+    "y": 8,
+    "w": 194,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 41,
+    "y": 40,
+    "w": 194,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 275,
+    "h": 275
+   }
+  },
+  "scratchCoin_011.png": {
+   "frame": {
+    "x": 8,
+    "y": 8,
+    "w": 195,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 40,
+    "y": 40,
+    "w": 195,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 275,
+    "h": 275
+   }
+  },
+  "scratchCoin_012.png": {
+   "frame": {
+    "x": 211,
+    "y": 8,
+    "w": 195,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 40,
+    "y": 40,
+    "w": 195,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 275,
+    "h": 275
+   }
+  }
+ },
+ "meta": {
+  "app": "harness/scratcher/coin-flakes/repack/repack.mjs",
+  "version": "1.0",
+  "image": "scratchcoinsheet.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 989,
+   "h": 414
+  },
+  "scale": "0.55"
+ }
+}
